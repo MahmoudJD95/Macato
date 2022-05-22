@@ -45,17 +45,18 @@ Its a website allows users to hire a personal chef to come and cook for them at 
 3. you can get paid online.
 4. you can comeback to any booking to submit the feedback.
 5. 
-![](https://i.imgur.com/TAzMmOu.png)
+![](https://i.imgur.com/Qzfcl1l.png)
+
 
 # Flow Chart
 ![](https://i.imgur.com/aK0vH0i.jpg)
 
 
-![](https://i.imgur.com/wEvTwP5.png)
+![](https://i.imgur.com/PWZuo22.png)
+
 
 
 ## Tech Stack 💻
-
 
 
 - TypeScript
